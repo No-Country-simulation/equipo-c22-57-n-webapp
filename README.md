@@ -4,30 +4,39 @@ Este proyecto es una solución innovadora para transformar textos (como PDFs u o
 📝 Descripción del Proyecto
 La Plataforma de E-learning para Cursos Online tiene como objetivo facilitar el aprendizaje mediante herramientas avanzadas de IA. Está diseñada para convertir contenido estático en experiencias de aprendizaje dinámicas e interactivas, resolviendo los siguientes problemas:
 
-Simplificación del contenido educativo: Transforma textos largos y complejos en cursos digeribles y personalizados.
+**Simplificación del contenido educativo:** 
+Transforma textos largos y complejos en cursos digeribles y personalizados.
 Interactividad en el aprendizaje: Introduce evaluaciones, retroalimentación en tiempo real y recursos complementarios.
 Acceso universal: Promueve el aprendizaje accesible para usuarios con distintos niveles de conocimiento técnico.
+
 🚀 Características principales
-Conversión automatizada de textos en cursos interactivos.
-Generación de preguntas y evaluaciones dinámicas.
-Retroalimentación personalizada basada en el desempeño del usuario.
-Recursos adicionales y ejemplos prácticos para un aprendizaje completo.
+- Conversión automatizada de textos en cursos interactivos.
+- Generación de preguntas y evaluaciones dinámicas.
+- Retroalimentación personalizada basada en el desempeño del usuario.
+- Recursos adicionales y ejemplos prácticos para un aprendizaje completo.
+
 🛠 Tecnologías Utilizadas
-Lenguajes y Frameworks:
-Next.js (React Framework)
-JavaScript/TypeScript
-Node.js
-Herramientas de IA:
-OpenAI API o similar para procesamiento de lenguaje natural.
+- Lenguajes y Frameworks:
+- Next.js (React Framework)
+- JavaScript/TypeScript
+- Node.js
+- Herramientas de IA:
+- OpenAI API o similar para procesamiento de lenguaje natural.
+
 Estilos:
-Tailwind CSS para una interfaz moderna y responsiva.
-Gestión del Estado:
-Redux/Context API.
+- Tailwind CSS para una interfaz moderna y responsiva.
+- Gestión del Estado:
+- Redux/Context API.
+
 🧩 Instalación y Uso
 Sigue los pasos para clonar y ejecutar el proyecto localmente:
-
-Clona el repositorio:
-
+Node.js 18.18 or later.
+1. Clona el repositorio:
+`git clone https://github.com/No-Country-simulation/equipo-c22-57-n-webapp.git`
+2. Install dependencies:
+`npm i`
+3. Run the server
+`npm run dev`
 http://localhost:3000
 
 👥 Equipo de Desarrollo
