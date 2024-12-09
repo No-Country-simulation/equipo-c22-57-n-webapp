@@ -5,7 +5,7 @@ export const Header = () => {
   return (
     <header className="flex bg-white py-4">
       <div className="flex justify-between w-full max-w-screen-xl m-auto">
-        <h1>LOGO</h1>
+        <p>LOGO</p>
         <nav className="h-full">
           <ul className="flex items-center gap-4">
             <li>
