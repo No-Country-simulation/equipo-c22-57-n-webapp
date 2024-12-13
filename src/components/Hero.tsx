@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export const Hero = () => {
   return (
@@ -16,7 +17,13 @@ export const Hero = () => {
           Explorar
         </button>
       </div>
-      <img src="/assets/image/hero-img.png" alt="Hero Image" />
+      <Image
+        width={400}
+        height={400}
+        loading="lazy"
+        src="/assets/image/hero-img.png"
+        alt="Hero Image"
+      />
     </section>
   );
 };
